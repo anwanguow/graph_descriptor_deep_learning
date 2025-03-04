@@ -7,7 +7,9 @@ This repository contains the complete set of algorithms and computational data f
 
 This preprint is available at https://arxiv.org/abs/2408.06156.
 
-We replaced the traditional machine learning methods mentioned in the paper with a deep learning approach, specifically using GraphSAGE. The graph structure is implemented using the modified Voronoi method as described in the paper, with the parameter set to A=0.55, which was proven to be optimal in traditional machine learning methods. Note that message passing for each sample is only performed within its corresponding graph structure, while all GNNs share a common weight matrix. For detailed settings, please refer to "GNN_settings.pdf".
+We replaced the traditional machine learning methods mentioned in the paper with a deep learning approach, specifically using GraphSAGE. The graph structure is implemented using the modified Voronoi method as described in the paper, with the parameter set to A=0.55, which was proven to be optimal in traditional machine learning methods. Note that message passing for each sample is only performed within its corresponding graph structure, while all GNNs share a common weight matrix.
+
+For detailed settings, please refer to "GNN_settings.pdf".
 
 MD simulation
 -----------------
