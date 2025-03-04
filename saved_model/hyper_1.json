@@ -1,0 +1,8 @@
+{
+  "lr": 0.0033398115539083444,
+  "gnn_num_layers": 3,
+  "gnn_hidden_dim": 114,
+  "mlp_num_layers": 1,
+  "mlp_hidden_dim": 115,
+  "dropout": 0.2699036804023281
+}

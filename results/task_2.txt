@@ -1,0 +1,6 @@
+Confusion Matrix:
+[[12672  2328]
+ [ 1869 13131]]
+MCC: 0.7205
+AUC: 0.9276
+Accuracy: 0.8601

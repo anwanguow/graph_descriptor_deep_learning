@@ -1,0 +1,6 @@
+Confusion Matrix:
+[[12924  2076]
+ [ 2876 12124]]
+MCC: 0.6708
+AUC: 0.8955
+Accuracy: 0.8349
