@@ -3,7 +3,7 @@ The Deep Learning Implementation of "Graph-based Descriptors for Condensed Matte
 
 
 
-This repository contains the complete set of algorithms and computational data from the paper "Graph Theory-Based Approach to Identifying Phase Transitions in Condensed Matter." It specifically focuses on the deep learning implementations of the four key experiments presented in the paper, demonstrating how graph-based descriptors can be leveraged to analyze phase transitions in condensed matter systems.
+This repository contains the complete set of algorithms and computational data from the paper "Graph Theory-Based Approach to Identifying Phase Transitions in Condensed Matter." It specifically focuses on the deep learning implementations of the four key experiments presented in the paper.
 
 This preprint is available at https://arxiv.org/abs/2408.06156.
 
