@@ -50,7 +50,10 @@ Testing
 Results
 -----------------
 1. Exp_A: "results/task_1.txt".
-1. Exp_B: "results/task_2.txt".
-1. Exp_C: "results/task_3.txt".
-1. Exp_D: "results/task_4.txt".
+2. Exp_B: "results/task_2.txt".
+3. Exp_C: "results/task_3.txt".
+4. Exp_D: "results/task_4.txt".
 
+Contact
+-----------------
+An Wang: amturing@outlook.com
