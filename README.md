@@ -11,6 +11,8 @@ We replaced the traditional machine learning methods mentioned in the paper with
 
 For detailed settings, please refer to "GNN_settings.pdf".
 
+The main repository of this article is https://github.com/anwanguow/GP_structural.
+
 MD simulation
 -----------------
 
