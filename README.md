@@ -3,9 +3,7 @@ The Deep Learning Implementation of "Graph-based Descriptors for Condensed Matte
 
 
 
-This repository contains the complete set of algorithms and computational data from the paper "Graph-based Descriptors for Condensed Matter". It specifically focuses on the deep learning implementations of the four key experiments presented in the paper.
-
-The early preprint (Informal) is available at https://drive.google.com/file/d/1SP3bxhoXYQ117zxxdf5iud5gAEc-1Zj4/view?usp=sharing.
+This repository contains the complete set of algorithms and computational data from the article "Graph-based Descriptors for Condensed Matter", which is published in Physical Review E (PRE): https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.064302. It specifically focuses on the deep learning implementations of the four key experiments presented in the paper.
 
 We replaced the traditional machine learning methods mentioned in the paper with a deep learning approach, specifically using GraphSAGE. The graph structure is implemented using the modified Voronoi method as described in the paper, with the parameter set to A=0.55, which was proven to be optimal in traditional machine learning methods. Note that message passing for each sample is only performed within its corresponding graph structure, while all GNNs share a common weight matrix.
 
