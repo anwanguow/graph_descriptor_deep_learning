@@ -54,6 +54,25 @@ Results
 3. Exp_C: "results/task_3.txt".
 4. Exp_D: "results/task_4.txt".
 
+Reference
+-----------------
+```bibtex
+@article{PhysRevE.111.064302,
+  title = {Graph-based descriptors for condensed matter},
+  author = {Wang, An and Sosso, Gabriele C.},
+  journal = {Phys. Rev. E},
+  volume = {111},
+  issue = {6},
+  pages = {064302},
+  numpages = {43},
+  year = {2025},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.111.064302},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.111.064302}
+}
+```
+
 Contact
 -----------------
 An Wang: amturing@outlook.com
